@@ -57,7 +57,7 @@ The result: doctors publish real-time availability, patients book instantly, and
 - Bcrypt for password hashing
 - Multer for file uploads
 - Cloudinary for image storage
-- Razorpay for payments
+
 
 **Architecture**
 
